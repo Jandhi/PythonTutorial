@@ -1,5 +1,5 @@
 # CHAPTER 1 - THE BASICS
-# Section 1.2 - Types
+# Lesson 1.2 - Types
 
 from imports.firstcode import *
 # you can ignore this line

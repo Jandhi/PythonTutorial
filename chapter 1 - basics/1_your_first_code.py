@@ -1,5 +1,5 @@
 # CHAPTER 1 - THE BASICS
-# Section 1.1 - Your first code
+# Lesson 1.1 - Your first code
 
 # These files are python files
 # They contain python code that can be run by the python interpreter to make stuff happen
